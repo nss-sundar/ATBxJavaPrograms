@@ -19,7 +19,7 @@ public class Lab091 {
         if (true) {
             System.out.println("1");
 
-            if (false) {  // due to false the below lines wont get executed
+            if (false) {  // due to false the below lines won't get executed
                 System.out.println("2");
 
                 if (true) {
